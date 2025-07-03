@@ -18,3 +18,7 @@ TBD
 ## 17.07.2025 - [Agents in Production](https://home.mlops.community/public/events/agentsinproduction2025)
 
 TBD
+
+## 03.09.2025 - [Generation AI](https://www.meetup.com/generation-ai-rhein-neckar-kreis-karlsruhe/events/308549485)
+
+TBD
