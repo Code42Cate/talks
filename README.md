@@ -13,11 +13,11 @@ A collection of talks I gave!
 
 ## 03.07.2025 - [AI Tinkerers Nürnberg](https://www.meetup.com/de-DE/ai-tinkerers-nurnberg/)
 
-TBD
+Talked about small local LLMs, no slides, just a live demo!
 
 ## 17.07.2025 - [Agents in Production](https://home.mlops.community/public/events/agentsinproduction2025)
 
-TBD
+[If there's free compute, there's abuse](17-07-2025-mlops-community/slides.pdf)
 
 ## 03.09.2025 - [Generation AI](https://www.meetup.com/generation-ai-rhein-neckar-kreis-karlsruhe/events/308549485)
 
