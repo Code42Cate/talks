@@ -19,6 +19,8 @@ Talked about small local LLMs, no slides, just a live demo!
 
 [If there's free compute, there's abuse](17-07-2025-mlops-community/slides.pdf)
 
-## 03.09.2025 - [Generation AI](https://www.meetup.com/generation-ai-rhein-neckar-kreis-karlsruhe/events/308549485)
+## 22.11.2025 - [Google Developers Group Devfest Karlsruhe](https://www.devfestka.de/)
 
-TBD
+## 11.12.2025 - [Docker Freiburg](https://www.meetup.com/docker-black-forest/events/311852108/)
+
+## 16.12.2025 - [CloudNative Karlsruhe]()
