@@ -1,0 +1,25 @@
+{
+    "name": "fcnet",
+    "cniVersion": "0.4.0",
+    "plugins": [
+        {
+            "type": "bridge",
+            "name": "fcnet-bridge",
+            "bridge": "fcnet0",
+            "isDefaultGateway": true,
+            "ipMasq": true,
+            "hairpinMode": true,
+            "ipam": {
+                "type": "host-local",
+                "subnet": "10.0.0.0/16",
+                "resolvConf": "/etc/cni/resolv.conf"
+            }
+        },
+        {
+            "type": "firewall"
+        },
+        {
+            "type": "tc-redirect-tap"
+        }
+    ]
+}
